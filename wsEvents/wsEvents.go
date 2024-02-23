@@ -1,0 +1,3 @@
+package wsEvents
+
+const MESSAGES_DID_CHANGE = "MESSAGES_DID_CHANGE"
